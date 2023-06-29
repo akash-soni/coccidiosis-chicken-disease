@@ -33,7 +33,7 @@ setuptools.setup(
     long_description="Classifiy wheather chicken have coccidiosis on not using chicken fecal",
     long_description_content_type="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",
-    author_email="aakashsoni.official@gmail.com",
+    author_email="akash.200287@gmail.com",
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
     install_requires=get_requirements("requirements.txt"),
